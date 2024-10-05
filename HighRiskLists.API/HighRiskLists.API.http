@@ -1,0 +1,6 @@
+@HighRiskLists.API_HostAddress = http://localhost:5201
+
+GET {{HighRiskLists.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
